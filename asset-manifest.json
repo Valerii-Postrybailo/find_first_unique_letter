@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Valerii-Postrybailo/find_first_unique_letter.git/static/css/main.7acaea2f.css",
+    "main.js": "/Valerii-Postrybailo/find_first_unique_letter.git/static/js/main.07d3183d.js",
+    "index.html": "/Valerii-Postrybailo/find_first_unique_letter.git/index.html",
+    "main.7acaea2f.css.map": "/Valerii-Postrybailo/find_first_unique_letter.git/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Valerii-Postrybailo/find_first_unique_letter.git/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
