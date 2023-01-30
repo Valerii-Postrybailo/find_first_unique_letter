@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "find_first_unique_letter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://github.com/Valerii-Postrybailo/find_first_unique_letter.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
