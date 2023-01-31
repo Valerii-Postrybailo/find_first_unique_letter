@@ -2,7 +2,7 @@
   "name": "find_first_unique_letter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Valerii-Postrybailo/find_first_unique_letter.git",
+  "homepage": "https://github.com/Valerii-Postrybailo/find_first_unique_letter/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.3",
