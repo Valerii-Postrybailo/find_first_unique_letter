@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Valerii-Postrybailo/find_first_unique_letter.git/static/css/main.7acaea2f.css",
-    "main.js": "/Valerii-Postrybailo/find_first_unique_letter.git/static/js/main.07d3183d.js",
+    "main.css": "/Valerii-Postrybailo/find_first_unique_letter.git/static/css/main.a5469275.css",
+    "main.js": "/Valerii-Postrybailo/find_first_unique_letter.git/static/js/main.50e6697a.js",
     "index.html": "/Valerii-Postrybailo/find_first_unique_letter.git/index.html",
-    "main.7acaea2f.css.map": "/Valerii-Postrybailo/find_first_unique_letter.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Valerii-Postrybailo/find_first_unique_letter.git/static/js/main.07d3183d.js.map"
+    "main.a5469275.css.map": "/Valerii-Postrybailo/find_first_unique_letter.git/static/css/main.a5469275.css.map",
+    "main.50e6697a.js.map": "/Valerii-Postrybailo/find_first_unique_letter.git/static/js/main.50e6697a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.a5469275.css",
+    "static/js/main.50e6697a.js"
   ]
 }
