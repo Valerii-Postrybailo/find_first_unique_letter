@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Valerii-Postrybailo/find_first_unique_letter/static/css/main.a5469275.css",
-    "main.js": "/Valerii-Postrybailo/find_first_unique_letter/static/js/main.21e90f9e.js",
-    "index.html": "/Valerii-Postrybailo/find_first_unique_letter/index.html",
-    "main.a5469275.css.map": "/Valerii-Postrybailo/find_first_unique_letter/static/css/main.a5469275.css.map",
-    "main.21e90f9e.js.map": "/Valerii-Postrybailo/find_first_unique_letter/static/js/main.21e90f9e.js.map"
+    "main.css": "/find_first_unique_letter/static/css/main.a5469275.css",
+    "main.js": "/find_first_unique_letter/static/js/main.24db882d.js",
+    "index.html": "/find_first_unique_letter/index.html",
+    "main.a5469275.css.map": "/find_first_unique_letter/static/css/main.a5469275.css.map",
+    "main.24db882d.js.map": "/find_first_unique_letter/static/js/main.24db882d.js.map"
   },
   "entrypoints": [
     "static/css/main.a5469275.css",
-    "static/js/main.21e90f9e.js"
+    "static/js/main.24db882d.js"
   ]
 }
