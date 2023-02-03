@@ -49,7 +49,11 @@ export const ReferenceItemInput = styled.input`
 
   position: absolute;
 
-  &:checked + ${ReferenceItemMainTextBlock}{
+  &:checked  ~ ${ReferenceItemLabel}{
+    background-color: #ffc0cb;
+  }
+
+  &:checked ~ ${ReferenceItemMainTextBlock}{
     display:block;
   }
 `;
