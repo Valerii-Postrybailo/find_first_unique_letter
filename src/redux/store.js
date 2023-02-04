@@ -5,9 +5,6 @@ export const initialState = {
   isAdd: false,
   texts: {
     items: [],
-    // filter: {
-    //   value: '',
-    // },
   },
 };
 

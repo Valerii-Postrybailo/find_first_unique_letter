@@ -19,8 +19,6 @@ export const RequestHistoryList = () => {
   const dispatch = useDispatch();
   const texts = useSelector(state => state.textsSlice.texts.items);
 
-  // console.log(texts)
-
   const isLoading = useSelector(state => state.textsSlice.isLoading);
   const error = useSelector(state => state.textsSlice.error);
 
