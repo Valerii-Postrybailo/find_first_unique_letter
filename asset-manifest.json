@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/find_first_unique_letter/static/css/main.a5469275.css",
-    "main.js": "/find_first_unique_letter/static/js/main.10c6ad03.js",
+    "main.js": "/find_first_unique_letter/static/js/main.3622dd49.js",
     "index.html": "/find_first_unique_letter/index.html",
     "main.a5469275.css.map": "/find_first_unique_letter/static/css/main.a5469275.css.map",
-    "main.10c6ad03.js.map": "/find_first_unique_letter/static/js/main.10c6ad03.js.map"
+    "main.3622dd49.js.map": "/find_first_unique_letter/static/js/main.3622dd49.js.map"
   },
   "entrypoints": [
     "static/css/main.a5469275.css",
-    "static/js/main.10c6ad03.js"
+    "static/js/main.3622dd49.js"
   ]
 }
